@@ -1,4 +1,8 @@
 // Problem 3
 import { Professor, Class, Student } from "../types";
 
-//export default studentsTaughtByProf; // Uncomment this line when done writing the function
+// Function that returns the names of all students a professor teaches in increasing order by age
+export function studentsTaughtByProf(professor: Professor): string[] {
+    // TODO: Implement logic to collect and sort students by age
+    return []; // Placeholder return statement
+}
